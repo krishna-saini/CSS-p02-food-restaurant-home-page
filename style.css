@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body {
+  font-size: 62.5%;
+  color: #ffc233;
+  background: url("./assets/pexels-maxyne-barcel-10402282\ 1.png"); /*fallback*/
+  background: linear-gradient(rgba(49, 10, 202, 0.5), rgba(49, 10, 202, 0.5)),
+    url("./assets/pexels-maxyne-barcel-10402282\ 1.png");
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
+
+.container {
+}
+
+/* ---------- Reusable button element------------ */
+button {
+  background-color: #f74361;
+  color: #fff;
+  padding: 1rem 2rem;
+  border: none;
+  font-size: 1.2rem;
+}
+
+/* ------------------------------ */
+
+/* ---------- NAVBAR ------------ */
+.navbar {
+  margin: 2rem 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.list-item {
+  font-size: 1.2rem;
+  margin-left: 2rem;
+}
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+
+.hero {
+  display: grid;
+  align-items: center;
+  text-align: center;
+  justify-items: center;
+}
+
+.hero-heading {
+  font-size: 4.4rem;
+  line-height: 0.9;
+  align-self: end;
+  padding: 20px 300px;
+}
+
+.button-large {
+}
+.bottom {
+  justify-self: end;
+  padding-right: 6rem;
+  /* padding-bottom: 4rem; */
+}
+
+.bottom div img {
+  width: 120px;
+}

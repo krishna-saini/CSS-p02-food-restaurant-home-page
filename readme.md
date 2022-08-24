@@ -1,74 +1,63 @@
-**Bold**
+# Foor restaurant  page
+This is a solution to the challenge no. 02 given in Full Stack Web development bootcamp by [Hitest Chowdhary](https://www.linkedin.com/in/hiteshchoudhary/?originalSubdomain=in)
 
----
+## Table of contents
 
-**Bold**
+- [Overview](#overview)
 
-_Italic_
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
----
+## Overview
 
-_Italic_
+### The challenge
 
-~~999~~ 699
+Users should be able to:
 
-# heading1
+- code the given design using HTML and plain CSS
 
-## heading2
 
-### heading3
+### Screenshot
 
-# My portfolio websites
+![](./2.png)
 
-here are my portfolio websites
+### Links
+-  [Solution URL](https://github.com/krishna-saini/CSS-p02-food-restaurant-home-page)
+-  [Live Site URL](https://food-restauent-home-page-by-krishna-saini.netlify.app/)
 
-- [Codercommunity](web.codercommunity.io)
-- [LCO](web.learncodeonline.in)
-  ordered list
+## My process
 
-  ![LCO](scresshot of your project)
+### Built with
 
-1. one
-2. two
-3. three
-   1. one
-   2. two
+- Semantic HTML5 markup
+- positioning
 
-unordered list
+### What I learned
+I gained knowledge of inserting image as background image
 
-- one
-- two
-- three
+### Continued development
+In my future projects, I will learn about various features related to inserting image in a container.
 
-unordered list
+### Useful resources
 
-- one
-- two
-- three
-  Links
-  syntax -[]()
+- [Learn Code Online](https://web.learncodeonline.in/) - This helped me in learning fundamentals of CSS and media queries.
+- [CSS udemy course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - This helped in learning HTML5 semantic markup, various CSS properties, in writing clean code, adding comments, structing folder etc.
 
-[Home](https://google.com "google")
+## Author
+- Name: Krishna Saini
+- [Website](https://krishna-saini.netlify.app/)
+-  [Linkedin](https://www.linkedin.com/in/krishna-saini-39b4126a/)
+- [github](https://github.com/krishna-saini)
+- [findcoder](https://www.findcoder.io/u/krishnasaini)
 
-Multi line code snippet
 
-```
-for(let i=0;i<5;i++>){
-    // do something
-}
-```
-
-hello `let` is a keyword
-
-INSERTING IMAGES
-![alt text](IMAGE LINK)
-
-![LCO](https://learncodeonline.in/mascot.png)
-
----
-
-![LCO](./assets/white-logo.png)
-
----
-
-> Hello learncodeonline inueron
+## Acknowledgments
+I would like to thanks [Hitest Chowdhary](https://www.linkedin.com/in/hiteshchoudhary/?originalSubdomain=in) for hosting such an extensive bootcamp which is bringing best out of me in no time. Now I have more confidence on builing a responsive website.
+I would like to thanks all the community members of [codercommunity](https://web.codercommunity.io/) for resolving my doubts. 
